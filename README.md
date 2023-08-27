@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I´m currently studying Information Technologies<br>👯 I’m looking to collaborate on teams to develop and resolve issues<br>🤝 I’m looking for help with programming issues and deployments<br>🌱 I’m currently learning Angular, JavaScript & Docker<br>
+🔭 I´m currently studying Information Technologies<br>👯 I’m looking to collaborate on teams to develop apps and resolve issues<br>🤝 I’m looking for help with programming issues and deployments<br>🌱 I’m currently learning Angular, JavaScript & Docker<br>
 
 
 ## 🌐 Socials:
